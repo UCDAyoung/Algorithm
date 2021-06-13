@@ -1,3 +1,13 @@
+/* 작성 : 21.06.12 
+ * 수정 : 
+ * 확인 :
+ * 
+ * 
+ * 
+ * 이친수
+ * https://www.acmicpc.net/problem/2193
+ *
+ */
 package dynamic;
 
 import java.io.*;

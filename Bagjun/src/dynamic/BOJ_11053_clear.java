@@ -1,5 +1,13 @@
+/* 작성 : 21.06.12
+ * 수정 : 
+ * 확인 :
+ * 
+ * 가장 긴 증가하는 수열 
+ * https://www.acmicpc.net/problem/11053 
+ * #다이나믹#증가#
+ * 
+ */
 package dynamic;
-// #다이나믹#증가#
 import java.io.*;
 class BOJ_11053_clear{
   public static void main(String args[]) throws IOException{
