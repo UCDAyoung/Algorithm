@@ -17,15 +17,15 @@ import java.util.*;
 import java.io.*;
 
 
-public class BOJ_1699_again {
+public class BOJ_1699_recul {
 	static int[] memo;
 	public static void main(String[] args) throws IOException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(bf.readLine());
-		memo = new int[N+1];
-		memo[1] = 1; // 1의 최소항은 항상 1 
 		
-		topDown_dp(N);
+		memo = new int[N+1];
+		memo[1] = 1; // 1의 최소항은 항상 1
+	
 		System.out.println(memo[N]);
 		
 		
