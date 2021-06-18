@@ -2,8 +2,8 @@
  * 수정 : 
  * 확인 :
  *  
- *  쉬운계단수 
- *  10844
+ * 쉬운계단수 
+ * 10844
  * https://www.acmicpc.net/problem/10844
  * 참고
  * https://webcache.googleusercontent.com/search?q=cache:cCjQbGpV3XcJ:https://st-lab.tistory.com/134+&cd=1&hl=ko&ct=clnk&gl=kr
