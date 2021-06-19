@@ -7,7 +7,7 @@
  * Comparable - Tocompare
  * https://programmers.co.kr/learn/courses/30/lessons/12915
  */
-package package1;
+package level1;
 
 import java.util.*;
 

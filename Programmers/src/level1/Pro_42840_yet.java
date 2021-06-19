@@ -2,7 +2,7 @@
  * https://programmers.co.kr/learn/courses/30/lessons/42840
  * 
  */
-package package1;
+package level1;
 
 public class Pro_42840_yet {
 

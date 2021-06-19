@@ -1,4 +1,4 @@
-package package1;
+package level1;
 
 import java.util.*;
 //가장 문제되는 것 : 만약 같은 문자열일 경우에는 ??  -> String comparable 이 implements?되어있어서 알아서처리됨. 
