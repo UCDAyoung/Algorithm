@@ -1,6 +1,6 @@
 /* 작성 : 21.06.22 
- * 수정 : 
- * 확인 
+ * 수정 : 다시 풀기 bufferedreader랑 stringbuilder사용해서 한게 가장빠름.
+ * 확인 : 
  * 
  * 수 정렬하기
  * https://www.acmicpc.net/problem/2750
