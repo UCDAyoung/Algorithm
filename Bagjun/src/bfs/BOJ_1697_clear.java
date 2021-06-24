@@ -54,6 +54,7 @@ public class BOJ_1697_clear{
             			if(dist[step[i]]==0) { //방문했는지 확인 
             				q.offer(step[i]);
             				dist[step[i]] = dist[cur]+1;
+//            				Bfs??
             			}
             		}
             }

@@ -60,11 +60,13 @@ public class BOJ_1463_clear {
 				dis[cur] = dis[N]+1;
 			}
 			else{
+				
 				cur = N-1;
 				q.offer(N);
 				q.offer(cur);
 				visit[cur] = true;
 				dis[cur] = dis[N]+1;
+	
 				
 				
 			}
