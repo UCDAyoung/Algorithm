@@ -30,13 +30,20 @@ public class 네이버자가진단 {
 				list.add(maps.get(arr[i]));
 				set.add(arr[i]);
 			}
-					
 		}			
 		
+		List list2 = new LinkedList(set);
+		int[] arr2 = new int[list.size()];
+		for(int i=0; i<list2.size();i++)
+			 arr2[i] = (int) list2.get(i);
+		
+		 for(int a : arr2)
+			 System.out.println(a);		
+	
 							 		 
 			
 		 //첫번째 
-		 int[] arr2 = new int[list.size()];
+		 
 		 for(int i=0; i<list.size();i++)
 			 arr2[i] = list.get(i);
 		
